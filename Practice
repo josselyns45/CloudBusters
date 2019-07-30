@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+  background-image: nature-hd-background-9.jpg	
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>CloudBusters</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse green;
+  width: 100%;
+}
+
+td, th {
+text-align: left;  border: 1px solid ;
+
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:#FAB162;
+}
+</style>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Scheduler</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>2205</td>
+    <td>tmpgfnDse</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>0475</td>
+    <td>tmpAKznDn</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>1476</td>
+    <td>tmpyFXySb</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>1863</td>
+    <td>tmp9KkWar</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>5895</td>
+    <td>tmp9yTuar</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+  <tr>
+    <td>9568</td>
+    <td>tmp9KkEar</td>
+    <td>slurml</td>
+    <td>Completed</td>
+  </tr>
+</table>
+
+</body>
+</html>
