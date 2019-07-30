@@ -4,7 +4,7 @@
 <style>
 body {
   background-color: lightblue;
-  background-image: nature-hd-background-9.jpg	
+  background-image: url("nature-hd-background-9.jpg");
 }
 
 h1 {
